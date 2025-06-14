@@ -35,6 +35,7 @@ https://www.mediafire.com/file/jmpwueg65gyyrb8/SpritteVerde.rar/file
 </body>
 </html>
 
+
 ## ⚠️ Derechos de autor ⚠️
 
 Todos los diseños y sprites incluidos en este proyecto fueron creados por mí.
