@@ -11,10 +11,16 @@
 
 https://www.mediafire.com/file/jmpwueg65gyyrb8/SpritteVerde.rar/file
 
+
+
+
 ## ⚠️Contraseña ⚠️
 ⬇  ⬇  ⬇
 
 LionnyCR
+
+
+
 
 ## ⚠️ Derechos de autor ⚠️
 
