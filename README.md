@@ -12,29 +12,9 @@
 https://www.mediafire.com/file/jmpwueg65gyyrb8/SpritteVerde.rar/file
 
 ## ⚠️Contraseña ⚠️
+⬇  ⬇  ⬇
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <title>Copiar Contraseña</title>
-</head>
-<body>
-  <h2>🔐 Copiar Contraseña</h2>
-  <p id="pw">Contraseña: LionnyCR</p>
-  <button onclick="copyText()">Copiar contraseña</button>
-
-  <script>
-    function copyText() {
-      const text = document.getElementById("pw").innerText;
-      navigator.clipboard.writeText(text).then(() => {
-        alert("¡Contraseña copiada al portapapeles!");
-      });
-    }
-  </script>
-</body>
-</html>
-
+LionnyCR
 
 ## ⚠️ Derechos de autor ⚠️
 
